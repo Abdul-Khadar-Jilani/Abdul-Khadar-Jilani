@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdul Khadar Jilani, and I am an aspiring Software Developer specializing in Artificial Intelligence.</p>
+<p align="left">I'm Abdul Khadar Jilani, and I am an aspiring Software Developer specializing in Artificial Intelligence.</p>
 
 ###
 
